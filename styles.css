@@ -1,5 +1,5 @@
 a {
-    color: black;
+    color: #242424;
     text-decoration: none;
     font-size: 1em;
     font-style: 'Manrope', sans-serif;
@@ -15,12 +15,39 @@ h1 {
     font-style: 'Montserrat', sans-serif;
 }
 
+h2 {
+    color: #F9F8FF;
+}
+
 p {
     font-size: 1.1em;
     font-style: 'Manrope', sans-serif;
+    color: #F9F8FF;
 }
 
 ul li {
     font-size: 1em;
     font-style: 'Manrope', sans-serif;
+    color: #F9F8FF;
 }
+
+body {
+    background-color: #1F2039;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.nav>a {
+    color: white;
+    background: linear-gradient(090deg, #8E86B5, #ACAEED);
+    font-style: 'Montserrat', sans-serif;
+}
+
+.header, .footer {
+    background-color: white;
+}
+
