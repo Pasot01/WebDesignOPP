@@ -1,3 +1,26 @@
 a {
     color: black;
+    text-decoration: none;
+    font-size: 1em;
+    font-style: 'Manrope', sans-serif;
+}
+
+.important {
+    color: #a5b4fc;
+}
+
+h1 {
+    font-size: 3.5em;
+    color: #A5B4FC;
+    font-style: 'Montserrat', sans-serif;
+}
+
+p {
+    font-size: 1.1em;
+    font-style: 'Manrope', sans-serif;
+}
+
+ul li {
+    font-size: 1em;
+    font-style: 'Manrope', sans-serif;
 }
