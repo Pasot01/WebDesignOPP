@@ -4,14 +4,14 @@ body {
     background-color: #1f2039;
 }
 
-a {
+nav a {
     color: #242424;
     text-decoration: none;
     font-size: 1em;
     font-style: 'Manrope', sans-serif;
 }
 
-a:hover {
+nav a:hover {
     text-decoration: underline;
 }
 
@@ -39,13 +39,13 @@ body {
     background-color: #1F2039;
 }
 
-.header,
-.footer {
+header,
+footer {
     background-color: white;
 }
 
-.header img:hover,
-.footer img:hover {
+header img:hover,
+footer img:hover {
     opacity: 0.5;
 }
 
