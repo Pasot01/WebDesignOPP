@@ -28,6 +28,7 @@ h1 {
 
 h2 {
     color: #F9F8FF;
+    margin-top: 1.5em;
 }
 
 p li {
@@ -42,6 +43,7 @@ body {
 header,
 footer {
     background-color: white;
+    padding: 20px 50px;
 }
 
 header img:hover,
@@ -60,9 +62,13 @@ footer img:hover {
     text-decoration: none;
 }
 
-
+section {
+    padding: 80px;
+}
 
 .apropos-contenu {
+    padding: 50px;
+    margin: auto;
     border-right: 1px solid #8e86b5;
     border-bottom: 1px solid #8e86b5;
 }
